@@ -1,7 +1,7 @@
 import random
 import os
 
-lines = ["I totally agree", "Good, how are you?", "Whales are pretty big", "Jurassic park released in 1993, that's a long time ago", "Hi", "You should try minecraft", "Minecraft is getting camels (or is it cammels?)", "Egypt is a country in Africa", "Counting sheep...", "No", "Yes", "I actually don't know what you are saying", "Firefox has a cool logo", "I want to thank our sponsor, Raid: Shadow Legends", "Subnautica good game", "Fun fact: this isn't a fun fact", "FEED THE PENGUINS", "Deinosuchus was pretty big", "I have no friends", "Programming is fun", "Yeah, your way of doing it is better", "Before we continue this conversation, I want to thank our sponsor: NordVPN"]
+lines = ["I totally agree", "Good, how are you?", "Whales are pretty big", "Jurassic park released in 1993, that's a long time ago", "Hi", "You should try minecraft", "Minecraft is getting camels (or is it cammels?)", "Egypt is a country in Africa", "Counting sheep...", "No", "Yes", "I actually don't know what you are saying", "Firefox has a cool logo", "I want to thank our sponsor, Raid: Shadow Legends", "Subnautica good game", "Fun fact: this isn't a fun fact", "FEED THE PENGUINS", "Deinosuchus was pretty big", "I have no friends", "Programming is fun", "Yeah, your way of doing it is better", "Before we continue this conversation, I'd like to thank our sponsor: NordVPN"]
 
 os.system("clear")
 
